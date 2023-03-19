@@ -13,4 +13,4 @@ Primero vamos a registrarnos.
 
 # Ya tenes la account?
 Hacé click en el siguiente link para copiar el proyecto
-[Forker repo](./FORK.md)
+[Copiar repositorio](./FORK.md)
