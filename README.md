@@ -2,6 +2,6 @@
 
 🇦🇷 [Español](/languages/esAR/README.md)
 
-🇦🇺 [English](/languages/esUS/README.md)
+🇦🇺 [English](/languages/enUS/README.md)
 
 🗣️💬👆
