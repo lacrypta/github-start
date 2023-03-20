@@ -1,6 +1,6 @@
 # Cuenta de Github
 
-Primero vamos a registrarnos.
+Primero vamos a registrarnos. Es **GRATIS**, forever.
 
 # Recomendación
 ‼️ Abrí los links en otra pestaña para no perder estas instrucciones ‼️
