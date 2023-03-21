@@ -2,7 +2,10 @@
 
 _&#x00a1;en 30 segundos o menos!_
 
-![Links](assets/hodl-links.png)
+<!-- markdownlint-disable-next-line MD033 -->
+<a id="hodl-links"></a>
+
+[![Links](assets/hodl-links.png)](#hodl-links)
 
 ## Para Ansiosos &#x1f3ce;
 
@@ -48,7 +51,10 @@ Hac&#x00e9; click derecho en el link &#x1f5b1; y seleccion&#x00e1; _"abrir en un
 
 Para comenzar, and&#x00e1; arriba de todo en esta p&#x00e1;gina, y hac&#x00e9; click en el bot&#x00f3;n que dice **Sign up**:
 
-![Sign up](assets/github-sign-up.png)
+<!-- markdownlint-disable-next-line MD033 -->
+<a id="github-sign-up"></a>
+
+[![Sign up](assets/github-sign-up.png)](#github-sign-up)
 
 Tambi&#x00e9;n pod&#x00e9;s hacer link [**ac&#x00e1; &#x270d;**](https://github.com/signup) &#x00a1;y te llevamos directo para all&#x00e1;!
 
@@ -59,13 +65,19 @@ Tambi&#x00e9;n pod&#x00e9;s hacer link [**ac&#x00e1; &#x270d;**](https://github.
 
 Complet&#x00e1; el cuadro de texto marcado con **1** con una cuenta de mail que puedas validar (ie. a la que tengas acceso inmediato), y hac&#x00e9; lcick en el bot&#x00f3;n **Continue** marcado con **2**.
 
-![Email](assets/github-email.png)
+<!-- markdownlint-disable-next-line MD033 -->
+<a id="github-email"></a>
+
+[![Email](assets/github-email.png)](#github-email)
 
 ### &#x1f7e2;&#x1f7e2;&#x1f7e2;&#x26aa;&#x26aa;&#x26aa;&#x26aa; - Elegir una password
 
 Complet&#x00e1; el cuadro de texto marcado con **1** con una password que recuerdes, y hac&#x00e9; lcick en el bot&#x00f3;n **Continue** marcado con **2**.
 
-![Password](assets/github-password.png)
+<!-- markdownlint-disable-next-line MD033 -->
+<a id="github-password"></a>
+
+[![Password](assets/github-password.png)](#github-password)
 
 ### &#x1f7e2;&#x1f7e2;&#x1f7e2;&#x1f7e2;&#x26aa;&#x26aa;&#x26aa; - Elegir un nombre de usuario
 
@@ -75,14 +87,20 @@ Te recomendamos que pongas tu mismo nombre de usuario de email, o que te invente
 
 Complet&#x00e1; tu nombre de usuario en el cuadro de texto marcado con **1**, y hac&#x00e9; click en el bot&#x00f3;n **Continue** marcado con **2**.
 
-![Username](assets/github-username.png)
+<!-- markdownlint-disable-next-line MD033 -->
+<a id="github-username"></a>
+
+[![Username](assets/github-username.png)](#github-username)
 
 ### &#x1f7e2;&#x1f7e2;&#x1f7e2;&#x1f7e2;&#x1f7e2;&#x26aa;&#x26aa; - Elegir si recibir promociones o no
 
 GitHub te puede mandar mails de promos y difusi&#x00f3;n.
 Si quer&#x00e9;s recibir estos mails, pon&#x00e9; `y`, si no, pon&#x00e9; `n` en el cuadro de texto marcado con **1**, y hac&#x00e9; click en el bot&#x00f3;n **Continue** marcado con **2**.
 
-![Products](assets/github-products.png)
+<!-- markdownlint-disable-next-line MD033 -->
+<a id="github-products"></a>
+
+[![Products](assets/github-products.png)](#github-products)
 
 ### &#x1f7e2;&#x1f7e2;&#x1f7e2;&#x1f7e2;&#x1f7e2;&#x1f7e2;&#x26aa; - Completar un desf&#x00ed;o
 
@@ -90,19 +108,28 @@ Para validar que sos un ser humano (en vez de una m&#x00e1;quina haciendo este m
 
 Hac&#x00e9; click en el bot&#x00f3;n **Start puzzle** marcado y complet&#x00e1; el desaf&#x00ed;o.
 
-![Puzzle](assets/github-puzzle.png)
+<!-- markdownlint-disable-next-line MD033 -->
+<a id="github-puzzle"></a>
+
+[![Puzzle](assets/github-puzzle.png)](#github-puzzle)
 
 ### &#x1f7e2;&#x1f7e2;&#x1f7e2;&#x1f7e2;&#x1f7e2;&#x1f7e2;&#x1f7e2; - Validar tu email
 
 Por &#x00fa;ltimo, hac&#x00e9; click en el bot&#x00f3;n **Create account** que va a aparecer debajo.
 
-![Puzzle](assets/github-create.png)
+<!-- markdownlint-disable-next-line MD033 -->
+<a id="github-create"></a>
+
+[![Create](assets/github-create.png)](#github-create)
 
 Eso te va a llevar a la pantalla de validaci&#x00f3;n.
 
 Ahora, entr&#x00e1; a [la casilla de mails que pusiste en el primer paso](#completar-tu-email), busc&#x00e1; el mail de GitHub (si no lo ves, fijate si no fue a parar a la carpeta de Spam), y copi&#x00e1; el c&#x00f3;digo de 8 d&#x00ed;gitos que te mandaron en los casilleros marcados.
 
-![Verify](assets/github-verify.png)
+<!-- markdownlint-disable-next-line MD033 -->
+<a id="github-verify"></a>
+
+[![Verify](assets/github-verify.png)](#github-verify)
 
 <!-- markdownlint-disable-next-line MD033 -->
 <a id="copiando-el-proyecto"></a>
@@ -114,13 +141,19 @@ Un fork tiene todo lo mismo que tiene el proyecto copiado, y te permite personal
 
 Hacer un fork del proyecto es muy sencillo, s&#x00f3;lo ten&#x00e9;s que hacer click en **Fork** arriba a la derecha.
 
-![Fork](assets/github-fork.png)
+<!-- markdownlint-disable-next-line MD033 -->
+<a id="github-fork"></a>
+
+[![Fork](assets/github-fork.png)](#github-fork)
 
 Tambi&#x00e9;n pod&#x00e9;s hacer click [ac&#x00e1; &#x1f9ec;](https://github.com/lacrypta/.hodl.ar/fork) &#x00a1;y te llevamos directo para all&#x00e1;!
 
 En la pantalla siguiente, verific&#x00e1; que tu nombre de usuario de GitHub aparezca en el men&#x00fa; marcado con **1**, que el nombre del repositorio forkeado sea `.hodl.ar` en el cuadro de texto marcado como **2**, agreg&#x00e1; o cambi&#x00e1; la descripci&#x00f3;n en el cuadro de texto marcado como **3**, y hac&#x00e9; click en el bot&#x00f3;n **Create fork** marcado como **4**.
 
-![New](assets/github-new.png)
+<!-- markdownlint-disable-next-line MD033 -->
+<a id="github-new"></a>
+
+[![New](assets/github-new.png)](#github-new)
 
 &#x1f973; &#x1f389; &#x1f38a; &#x1f3c6; **&#x00a1;Felicitaciones!** &#x1f3c6; &#x1f38a; &#x1f389; &#x1f973;
 
